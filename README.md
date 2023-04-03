@@ -4,3 +4,6 @@ I worked on a project using Power BI and Bangalore's Zomato dataset to select th
 I used Power BI to create interactive visualizations and dashboards that showcased key findings such as the most popular cuisines, the distribution of restaurants across different areas, and customer ratings of various restaurants. I also used geographic information system (GIS) tools to map the location of restaurants and analyze their proximity to other amenities such as parks, malls, and transport hubs.
 
 Through this project, I was able to provide valuable insights to my client, enabling them to make informed decisions about the best location for their new restaurant. This project demonstrated my skills in data analysis, visualization, and GIS, as well as my ability to deliver actionable insights to clients.
+
+![image](https://user-images.githubusercontent.com/129209796/229504828-37d35a0c-2941-42ca-9171-9fd9b2a5ca26.png)
+
